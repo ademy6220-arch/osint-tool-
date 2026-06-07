@@ -1,0 +1,16 @@
+{
+    "target": "l3onie.kyw",
+    "ip_info": {
+        "status": "fail",
+        "message": "invalid query",
+        "query": "l3onie.kyw"
+    },
+    "dns": {
+        "error": "invalid domain"
+    },
+    "username_check": {
+        "github": "https://github.com/l3onie.kyw",
+        "instagram": "https://instagram.com/l3onie.kyw",
+        "tiktok": "https://tiktok.com/@l3onie.kyw"
+    }
+}
