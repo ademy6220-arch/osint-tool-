@@ -4,7 +4,6 @@
 
 
 
-# ❄️ LUXA OSINT PRO TOOL
 
 LUXA is a lightweight Open Source Intelligence (OSINT) tool designed for **educational and security research purposes only**.
 
